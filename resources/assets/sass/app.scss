@@ -1,0 +1,19 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Flatpickr
+@import "node_modules/flatpickr/dist/flatpickr";
+
+// Application
+@import "fonts";
+@import "main";
+@import "panels";
+@import "tables";
